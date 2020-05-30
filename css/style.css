@@ -60,6 +60,7 @@ header #branding h1{
 
 header nav{
     float:right;
+    margin-top: 10px;
 }
 
 header .highlight, header .current a{
@@ -122,7 +123,7 @@ header a:hover {
 }
 
 #boxes .box img{
-    width: 90px;
+    width: 100px;
 }
 
 footer{
