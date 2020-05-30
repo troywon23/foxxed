@@ -60,7 +60,6 @@ header #branding h1{
 
 header nav{
     float:right;
-    margin-top: 10px;
 }
 
 header .highlight, header .current a{
@@ -76,7 +75,8 @@ header a:hover {
 /* Showcase */
 #showcase {
     min-height: 400px;
-    background:url('../img/David.png') no-repeat 0 -400px;
+    background:url('../img/David.png') no-repeat;
+    padding-top: 10px;
     text-align: center;
     color:#ffffff;
 }
