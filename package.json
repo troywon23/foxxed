@@ -1,0 +1,16 @@
+{
+  "name": "foxxed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Foxxed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://troywon23.github.io/foxxed",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
