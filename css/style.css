@@ -119,10 +119,9 @@ header #title2 {
     margin-bottom: 15px;   
     text-align: center;
     position: relative; 
-    color:white;  
 }
 header #title2 .wow{
-    background-color: #35424a;
+    background: #35424a;
 }
 
 
