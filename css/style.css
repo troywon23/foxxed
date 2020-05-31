@@ -79,7 +79,7 @@ header a:hover {
     float:left;
     overflow: hidden;
     background-size: cover;
-    background:url('../img/David.png') no-repeat;
+    background-image: url(../img/David.png);
     padding-top: 10px;
     text-align: center;
     color:#ffffff;
