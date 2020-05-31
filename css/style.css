@@ -109,6 +109,7 @@ header a:hover {
     float: right;
     margin-top: 15px;
     position:relative;
+    background-color: #ffffff;
 }
 
 #newsletter input[type="radio"]{
