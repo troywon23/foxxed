@@ -80,6 +80,7 @@ header a:hover {
     overflow: hidden;
     background-size: cover;
     background-image: url(../img/David.png);
+    width: 100%;
     padding-top: 10px;
     text-align: center;
     color:#ffffff;
