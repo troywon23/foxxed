@@ -115,6 +115,11 @@ header a:hover {
     height: 25px;
     width: 250px;
 }
+#newsletter button{
+    float: right;
+    position: relative;
+    vertical-align:middle;
+}
 header #title2 {
     margin-top: 0px;
     margin-bottom: 15px;   
