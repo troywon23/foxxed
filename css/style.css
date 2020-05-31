@@ -102,7 +102,7 @@ header a:hover {
 }
 
 #newsletter h1{
-    float: left;
+    float: center;
 }
 #newsletter form{
     float: right;
