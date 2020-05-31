@@ -115,7 +115,7 @@ header a:hover {
     width: 250px;
 }
 header #title2 {
-    margin-top: 5px;
+    margin-top: 0px;
     margin-bottom: 15px;   
     text-align: center;
     position: relative; 
