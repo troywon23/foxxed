@@ -160,3 +160,13 @@ footer{
     height: 8px;
     text-align: center;
 }
+.me {
+    text-align: center;
+    vertical-align: center;
+    font-size: 15px;
+    background-color: #e8491d;
+}
+#FAQ {
+    margin-left: 10px;
+    float: left;
+}
