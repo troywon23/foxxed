@@ -79,7 +79,6 @@ header a:hover {
     float:left;
     overflow: hidden;
     background-size: cover;
-    background-position: center;
     background:url('../img/David.png') no-repeat;
     padding-top: 10px;
     text-align: center;
