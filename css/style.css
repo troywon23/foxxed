@@ -111,9 +111,8 @@ header a:hover {
 }
 
 #newsletter input[type="radio"]{
-    padding: 4px;
     height: 25px;
-    width: 250px;
+    width: 50px;
 }
 #newsletter button{
     float: right;
