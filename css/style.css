@@ -103,6 +103,7 @@ header a:hover {
 
 #newsletter h1{
     float: center;
+    vertical-align:center;
 }
 #newsletter form{
     float: right;
