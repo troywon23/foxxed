@@ -114,6 +114,17 @@ header a:hover {
     height: 25px;
     width: 250px;
 }
+#title2 {
+    margin-top: 5px;
+}
+.wow{
+    background-color:#f4f4f4;
+}
+.wow h2{
+    float: center;
+    font-size: 20px;
+    
+}
 
 /* Boxes */
 #boxes{
