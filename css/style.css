@@ -77,7 +77,10 @@ header a:hover {
 #showcase {
     min-height: 400px;
     float:left;
+    overflow: hidden;
     background:url('../img/David.png') no-repeat;
+    background-size: cover;
+    background-position: center;
     padding-top: 10px;
     text-align: center;
     color:#ffffff;
