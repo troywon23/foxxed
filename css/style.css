@@ -76,7 +76,7 @@ header a:hover {
 /* Showcase */
 #showcase {
     min-height: 400px;
-    float:left; width:120%;
+    float:left; width:100%;
     background:url('../img/David.png') no-repeat;
     padding-top: 10px;
     text-align: center;
