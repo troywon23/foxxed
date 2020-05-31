@@ -60,7 +60,7 @@ header #branding h1{
 
 header nav{
     float:right;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 header .highlight, header .current a{
