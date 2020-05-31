@@ -21,7 +21,7 @@ ul {
     padding: 0px;
 }
 .container {
-    width: 100%;
+    width: 80%;
     margin: auto;
     overflow: hidden;
 
@@ -76,7 +76,7 @@ header a:hover {
 /* Showcase */
 #showcase {
     min-height: 400px;
-    float:left; width:100%;
+    float:left; width:100%; height: 100%;
     background:url('../img/David.png') no-repeat;
     padding-top: 10px;
     text-align: center;
