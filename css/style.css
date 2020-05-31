@@ -167,6 +167,8 @@ footer{
     background-color: #e8491d;
 }
 #FAQ {
-    margin-left: 10px;
+    margin-left: 50px;
     float: left;
+    border-color: black;
+    border: 2px;
 }
