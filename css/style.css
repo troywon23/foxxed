@@ -184,6 +184,7 @@ footer #bad{
     border-color: black;
     border: 5px;
     background-color:#ffffff;
+    display: inline-block;
 }
 .navigation-bar{
     margin-top: -50px;
