@@ -178,11 +178,11 @@ footer #bad{
     border: 3px;
 }
 #FAQ {
-    margin-left: 25px;
+    padding-left: 25px;
     float: left;
     border-color: black;
-    border: 2px;
-    background-color: #35424a;
+    border: 5px;
+    background-color:#ffffff;
 }
 .navigation-bar{
     margin-top: -50px;
