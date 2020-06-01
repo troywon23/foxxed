@@ -161,6 +161,14 @@ footer{
     height: 8px;
     text-align: center;
 }
+
+footer #bad{
+    color: #ffffff;
+    background-color: #e8491d;
+    height: 8px;
+    text-align: center;
+    vertical-align: center;
+}
 .me {
     text-align: center;
     vertical-align: center;
