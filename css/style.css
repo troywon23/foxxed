@@ -61,6 +61,7 @@ header #branding h1{
 header nav{
     float:right;
     margin-top: 10px;
+    vertical-align: top;
 }
 
 header .highlight, header .current a{
@@ -173,3 +174,4 @@ footer{
     border: 2px;
     background-color: #35424a;
 }
+
