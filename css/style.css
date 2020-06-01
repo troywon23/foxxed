@@ -178,8 +178,7 @@ footer #bad{
     border: 3px;
 }
 #FAQ {
-    padding-left: 25px;
-    padding-right: 200px;
+    margin: auto;
     border-color: black;
     border: 5px;
     background-color:#ffffff;
