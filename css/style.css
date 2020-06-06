@@ -252,7 +252,7 @@ footer #bad{
     padding-bottom: 20px;
 }
 .second {
-    background-color:#dddd;
+    background-color: gold;
 }
 .middle .text{
     background-color:#4CAF50;
@@ -280,4 +280,8 @@ footer #bad{
     text-align: center;
     text-emphasis:italic;
     font-family:cursive;
+}
+.favorite img{
+    height:30%;
+    width: 25%;
 }
