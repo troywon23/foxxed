@@ -197,8 +197,9 @@ footer #bad{
     background:#eee;
     padding:1em;
 }
-.wrapper > div:nth-child(1){
+.wrapper > div:nth-child(0){
     background:#dddddd;
+    padding-left: 10px;
 }
 .wrapper2{
     display: grid;
