@@ -137,15 +137,13 @@ header #title2 {
 
 
 /* Boxes */
-.box{
-    background-color:skyblue;
-}
 #boxes{
     margin-top: 20px;
 }
 #boxes .box{
     float: left;
     text-align: center;
+    background-color: skyblue;
 
 }
 
