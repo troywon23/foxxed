@@ -239,6 +239,10 @@ footer #bad{
     font-family: Sans-serif, Verdana, Garamond;
     font-weight:200px;
 }
+.wrapper2 .box .favorite img{
+    width: 35px;
+    height: 40px;
+}
 
 .onea {
     height: 200px;
