@@ -198,11 +198,6 @@ footer #bad{
     background:#eee;
     padding:1em;
 }
-.wrapper > div:nth-child(0){
-    background:#dddddd;
- 
-}
-
 
 .wrapper2{
     display: grid;
