@@ -213,3 +213,8 @@ footer #bad{
 .wrapper2 > div:nth-child(0){
     background-color: #dddd;
 }
+.wrapper2 h4{
+    font-size:12px;
+    font-family: Sans-serif, Verdana, Garamond;
+    font-weight:400px;
+}
