@@ -201,3 +201,9 @@ footer #bad{
 .wrapper > div:nth-child(1){
     background:#dddddd;
 }
+.wrapper2{
+    display: grid;
+    grid-template-columns:60%;
+    grid-gap: .5em;
+
+}
