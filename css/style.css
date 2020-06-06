@@ -266,3 +266,12 @@ footer #bad{
 .bad {
     background-color: navy;
 }
+.links:hover .pic{
+    opacity: .3px;
+}
+.links:hover .middle{
+    opacity: 1;
+}
+.links{
+    position:relative;
+}
