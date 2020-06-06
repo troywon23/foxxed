@@ -219,6 +219,6 @@ footer #bad{
     padding: 1em;
     background-color:skyblue;
 }
-.wrapper > div:nth-child(0){
+.wrapper > div:nth-child(1){
     background-color: #dddd;
 }
