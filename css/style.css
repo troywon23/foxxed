@@ -260,3 +260,6 @@ footer #bad{
     font-size: 16px;
     padding: 16px 32px;
 }
+.bad h4{
+    color: black;
+}
