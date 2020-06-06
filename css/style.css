@@ -263,3 +263,6 @@ footer #bad{
 .bad h4{
     color: black;
 }
+.bad {
+    background-color: navy;
+}
