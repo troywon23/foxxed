@@ -222,3 +222,17 @@ footer #bad{
 .wrapper2 img{
     border: 2.5px solid black;
 }
+.onea {
+    height:150px;
+    width: 75px;
+}
+.twoa {
+    padding-top:10px;
+    height: 50px;
+    width: 75px;
+}
+.threea{
+    padding-top:10px;
+    height:30px;
+    width:75px;
+}
