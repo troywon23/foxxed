@@ -221,18 +221,19 @@ footer #bad{
 }
 
 .onea {
-    height: 100px;
+    height: 300px;
     width: 500px;
 }
 .twoa {
     padding-top:10px;
-    height: 100px;
+    height: 300px;
     width: 500px;
 }
 .threea{
     padding-top:10px;
-    height:100px;
+    height:300px;
     width:500px;
+    padding-bottom: 20px;
 }
 .second {
     background-color:#dddd;
