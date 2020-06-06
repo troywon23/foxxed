@@ -152,6 +152,10 @@ header #title2 {
     width: 160px;
     height: 200px;
 }
+#boxes .box .favorite .img{
+    width: 50px;
+    height: 70px;
+}
 
 footer{
     padding: 10px;
