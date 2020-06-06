@@ -202,7 +202,7 @@ footer #bad{
 }
 .wrapper2{
     display: grid;
-    grid-template-columns:1fr 1fr;
+    grid-template-columns:60% 40%;
     grid-gap: .5em;
 
 }
