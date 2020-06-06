@@ -178,7 +178,7 @@ footer #bad{
     border: 3px;
 }
 #FAQ {
-    margin: auto;
+    margin-left: 20px;
     border-color: black;
     border: 5px;
     background-color: #DCDCDC;
@@ -188,6 +188,15 @@ footer #bad{
     margin-top: -75px;
     margin-left: -35px;
 }
-#head {
-    margin-left: -20px;
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.wrapper > div{
+    background:#eee;
+    padding:1em;
+}
+.wrapper > div:nth-child(1){
+    background:#dddddd;
 }
