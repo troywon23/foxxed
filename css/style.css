@@ -207,13 +207,13 @@ footer #bad{
     padding-left: 10px;
 
 }
-.wrapper2 img{
+.links img{
     opacity:1;
     display: block;
     transition:.5s ease;
     backface-visibility: hidden;
 }
-.wrapper2 .middle {
+    .middle {
     transition: .5s ease;
     opacity: 0;
     position:absolute;
@@ -237,17 +237,17 @@ footer #bad{
 }
 
 .onea {
-    height: 300px;
+    height: 200px;
     width: 500px;
 }
 .twoa {
     padding-top:10px;
-    height: 300px;
+    height: 200px;
     width: 500px;
 }
 .threea{
     padding-top:10px;
-    height:300px;
+    height:200px;
     width:500px;
     padding-bottom: 20px;
 }
@@ -267,7 +267,7 @@ footer #bad{
     background-color: navy;
 }
 .links:hover .pic{
-    opacity: .3px;
+    opacity: .3;
 }
 .links:hover .middle{
     opacity: 1;
