@@ -140,12 +140,12 @@ header #title2 {
 #boxes{
     margin-top: 20px;
 }
-#boxes .box{
+#boxes .wrapper{
     float: left;
     text-align: center;
 }
 
-#boxes .box img{
+#boxes .wrapper img{
     width: 130spx;
     height: 200px;
 }
@@ -190,7 +190,7 @@ footer #bad{
     grid-template-columns: 33% 33% 33%;
     grid-column-gap: .5em;
     border-color:black;
-    border-width:4.5px; 
+    border-width:15px; 
 }
 .wrapper > div{
     background:#eee;
