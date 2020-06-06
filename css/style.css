@@ -215,3 +215,13 @@ footer #bad{
     padding-left: 10px;
 
 }
+<<<<<<< HEAD
+=======
+.wrapper > div {
+    padding: 1em;
+    background-color:skyblue;
+}
+.wrapper > div:nth-child(0){
+    background-color: #dddd;
+}
+>>>>>>> parent of ae1c5d2... div
