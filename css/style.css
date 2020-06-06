@@ -211,7 +211,7 @@ footer #bad{
     padding-left: 10px;
 
 }
-.wrapper > div:nth-child() {
+.wrapper > div:nth-child(1) {
     padding: 1em;
     background-color:skyblue;
 }
