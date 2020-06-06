@@ -191,6 +191,8 @@ footer #bad{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     grid-column-gap: .5em;
+    border-color:black;
+    border-width:4.5px; 
 }
 .wrapper > div{
     background:#eee;
