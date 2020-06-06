@@ -276,3 +276,8 @@ footer #bad{
     position:relative;
     width: 50%;
 }
+.favorite h4{
+    text-align: center;
+    text-emphasis:italic;
+    font-family:cursive;
+}
