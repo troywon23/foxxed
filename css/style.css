@@ -219,3 +219,7 @@ footer #bad{
     font-family: Sans-serif, Verdana, Garamond;
     font-weight:400px;
 }
+.wrapper2 img{
+    padding-left: 10px;
+    border: 4.5px solid black;
+}
