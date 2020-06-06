@@ -143,8 +143,6 @@ header #title2 {
 #boxes .box{
     float: left;
     text-align: center;
-    background-color: skyblue;
-
 }
 
 #boxes .box img{
@@ -198,9 +196,12 @@ footer #bad{
     background:#eee;
     padding:1em;
 }
-.wrapper > div:nth-child(0){
-    background:#dddddd;
- 
+.wrapper > div:nth-child(0) {
+    padding: 1em;
+    background-color:skyblue;
+}
+.wrapper2 > div:nth-child(0){
+    background-color: #dddd;
 }
 
 
@@ -210,11 +211,4 @@ footer #bad{
     grid-gap: .5em;
     padding-left: 10px;
 
-}
-.wrapper > div:nth-child() {
-    padding: 1em;
-    background-color:skyblue;
-}
-.wrapper2 > div:nth-child(0){
-    background-color: #dddd;
 }
