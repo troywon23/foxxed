@@ -137,6 +137,9 @@ header #title2 {
 
 
 /* Boxes */
+.box{
+    background-color:skyblue;
+}
 #boxes{
     margin-top: 20px;
 }
