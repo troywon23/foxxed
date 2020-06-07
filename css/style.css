@@ -289,12 +289,13 @@ footer #bad{
     text-emphasis:italic;
     font-family:cursive;
     margin-top:-20px;
+    background-color: gold;
 }
 .favorite img{
     height: 40px;
     width: 35px;
+    background-color: gold;
 }
-
 #boxes .box .favorite img{
     height: 40px;
     width: 35px;
