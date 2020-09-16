@@ -304,3 +304,7 @@ footer #bad{
     height: 250px;
     width: 300px;
 }
+
+.second .img {
+    padding-top: 30px;
+}
